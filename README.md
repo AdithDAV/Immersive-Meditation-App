@@ -66,4 +66,22 @@ This application relies on a variety of Python libraries to handle different fun
 
 These libraries collectively support the complex functionality required to manipulate and present 3D audio effectively, ensuring a seamless and interactive user experience.
 
+## Design Decisions for Perceptual Consideration
+
+In developing this application, several key design decisions were made with a focus on enhancing user perception and interaction:
+
+- **Spatial Audio Localization:**
+  - **Decision:** Integration of the CIPIC HRTF database for accurate 3D audio localization.
+  - **Perceptual Consideration:** This enhances the realism and immersion of the audio experience, aiding users in navigating virtual environments through auditory cues, especially in visually complex scenes.
+
+- **Dynamic Audio Adjustment:**
+  - **Decision:** Audio properties such as volume, pitch, and echo dynamically adjust in response to the user's relative movement in the environment.
+  - **Perceptual Consideration:** Mimics real-world acoustic behavior, making the interaction more intuitive and engaging by aligning sound changes with user movements.
+
+- **User-Controlled Interaction:**
+  - **Decision:** Users can manipulate the positions of audio sources and their own listener position within the virtual space.
+  - **Perceptual Consideration:** Provides users with control and agency, enhancing engagement and allowing for personal exploration of the sound landscape, which can be particularly beneficial for educational and entertainment purposes.
+
+These decisions are fundamental in creating an interactive and immersive auditory environment that is both intuitive and enjoyable for users.
+
 
