@@ -94,4 +94,8 @@ In developing this application, several key design decisions were made with a fo
 
 These decisions are fundamental in creating an interactive and immersive auditory environment that is both intuitive and enjoyable for users.
 
+## Authors
+- Uma Saisree Avula
+- Darshini Ram Mattaparthi
+- Dharmesh Adith Varma Penmetsa
 
