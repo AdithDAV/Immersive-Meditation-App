@@ -81,6 +81,16 @@ In developing this application, several key design decisions were made with a fo
 - **User-Controlled Interaction:**
   - **Decision:** Users can manipulate the positions of audio sources and their own listener position within the virtual space.
   - **Perceptual Consideration:** Provides users with control and agency, enhancing engagement and allowing for personal exploration of the sound landscape, which can be particularly beneficial for educational and entertainment purposes.
+ 
+- **Guided Narration:**
+  Our application controls the narrator's movement using keyboard keys, enabling the narrator’s voice to emanate from various directions. This decision enhances cognitive engagement by leveraging the benefits of spatial audio cues, which stimulate different brain signals related to attention and spatial awareness.
+
+  Core Functionality and Future Enhancements:
+     - **Current Implementation:** Uses straightforward keyboard controls to ensure the application is accessible and easy to use, laying a solid foundation for core functionality.
+     - **AI Integration Potential:** Future updates can incorporate AI to automate and enhance narrator movements, improving the dynamic interaction and personalization of the narrative experience based on user feedback and advances in technology.
+
+- **Enjoy the Nature feature:**
+  - **Multisensory Stimulation:** Movement in our app is designed to interact with the 3D audio environment, providing a multisensory experience that can deepen the meditative state. As users move, the changing audio cues can help to anchor their attention in the present moment, a fundamental aspect of meditation.
 
 These decisions are fundamental in creating an interactive and immersive auditory environment that is both intuitive and enjoyable for users.
 
